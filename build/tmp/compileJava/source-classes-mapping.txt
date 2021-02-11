@@ -1,0 +1,10 @@
+com/repsi0/morecosmeticarmors/SunglassesArmorMaterial.java
+ com.repsi0.morecosmeticarmors.SunglassesArmorMaterial
+com/repsi0/morecosmeticarmors/mixin/MoreCosmeticArmorsMixin.java
+ com.repsi0.morecosmeticarmors.mixin.MoreCosmeticArmorsMixin
+com/repsi0/morecosmeticarmors/FamiliarArmorMaterial.java
+ com.repsi0.morecosmeticarmors.FamiliarArmorMaterial
+com/repsi0/morecosmeticarmors/GlassesArmorMaterial.java
+ com.repsi0.morecosmeticarmors.GlassesArmorMaterial
+com/repsi0/morecosmeticarmors/MoreCosmeticArmors.java
+ com.repsi0.morecosmeticarmors.MoreCosmeticArmors

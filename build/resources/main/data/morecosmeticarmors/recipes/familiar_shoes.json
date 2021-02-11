@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"D D",
+		"L L",
+		"   "
+	],
+	"key": {
+		"D": {
+			"item":"minecraft:dirt"
+		},
+		"L": {
+			"tag":"minecraft:logs"
+		}
+	},
+	"result": {
+		"item":"morecosmeticarmors:familiar_shoes"
+	}
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "more_cosmetic_armors",
+  "version": "${version}",
+
+  "name": "More Cosmetic Armors",
+  "description": "Adds cool decorative armors to the game.",
+  "authors": [
+    "Repsi0"
+  ],
+  "contact": {
+	"issues": "https://github.com/Repsi0/",
+    "sources": "https://github.com/Repsi0/"
+  },
+
+  "license": "GPL-3.0-or-later",
+  "icon": "assets/more_cosmetic_armors/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.example.ExampleMod"
+    ]
+  },
+  "mixins": [
+    "more_cosmetic_armors.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
